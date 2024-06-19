@@ -1,1 +1,1 @@
-you will need EMO database from kagel
+you will need OnlineRetail dataset from kagel or github.
